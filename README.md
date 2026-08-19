@@ -1,5 +1,5 @@
 # Jayden Lewis — Personal Portfolio
-### [Visit my portfolio](https://babyeyes17.github.io/portfolio/)
+### [Visit my portfolio](https://jayden-lewis.github.io/portfolio/)
 
 ### A personal portfolio website built with vanilla HTML, CSS, and JavaScript.
 
